@@ -3,6 +3,6 @@ log4j basic vulnrablity scanner for determining if log4j vulnrablity exists with
 
 This scanner is use at own risk, its super basic kinda janky and likely will fail offering only a false sense of security. Other tests can be added or removed as new or better info is released
 
-There is currently one filter of removing IIS hosts, further filters can be added as you see fit
+There is currently one filter removing IIS hosts, further filters can be added as you see fit
 
 USAGE: scan.py path/to/masscan/output
